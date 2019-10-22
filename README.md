@@ -1,6 +1,6 @@
 # C# Source code for UNITY GAMES
 
-Set of code source for Unity games for 2D games.
+Source code for Unity 2D games with a multi-agent system. 
 
 - Player movements
 - Player score
@@ -13,10 +13,15 @@ Set of code source for Unity games for 2D games.
 
 ## HangoVik
 
-Game example implemented with this source code (Assets are not open source).
+Example of game implemented with this source code (Assets are not open source).
 
 ![example1](example/example1.gif)
 
 # Usage
 
-Add code you need to your C# projects.
+Add the code you need to your C# projects.
+
+# Credits 
+
+- JUNG Frédéric 
+- BODET Martial
